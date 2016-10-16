@@ -27,11 +27,13 @@ We illustrate the course with a running project, VideoGen, a configurable genera
  
 ## Lab sessions 
 
- * 2 TDs
+ * 2 TDs 
+  (instructions given during the session)
  * 6 TPs
+  * TP1: http://tinyurl.com/TP1-IDM1617 (metamodeling)
+  * TP2: http://tinyurl.com/TP2-IDM1617 (DSL, Xtext)
  
-TP1: http://tinyurl.com/TP1-IDM1617 (metamodeling)
-TP2: http://tinyurl.com/TP2-IDM2617 (DSL, Xtext)
+
  
 ## Homework 
 
