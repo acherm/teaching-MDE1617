@@ -18,6 +18,11 @@
 
  * 2 TDs
  * 6 TPs 
+ 
+## Homework 
+
+JOOQ and SQL:
+https://github.com/acherm/teaching-MDE1617/wiki/JOOQ-homework
 
 ## Resources 
 
