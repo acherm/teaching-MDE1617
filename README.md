@@ -49,6 +49,7 @@ Some resources are available here:
 https://github.com/acherm/teaching/tree/master/MDE
 
 Slides of the course:
- * http://www.mathieuacher.com/teaching/MDE/ (as well as content of previous years)
+ * see "slides" folder of this repo
+ * http://www.mathieuacher.com/teaching/MDE/ (content of previous years)
  * variability and product lines: http://teaching.variability.io
 
