@@ -12,11 +12,12 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 
 ## Agenda 
 
- * domain-specific languages (DSL)
- * external DSLs and Xtext
+ * domain-specific languages (DSL) -- DSLs.pdf
+ * external DSLs and Xtext -- DSLAndXtext.pdf
  * metamodeling and EMF
- * meta-programming, annotations, advanced compositions  
  * model transformation
+ * meta-programming, annotations, advanced compositions  
+ * Xtend, a modern programming language implemented with MDE principles (Xtext included)
  * variability modeling 
  * software product lines and configuration 
  
@@ -48,7 +49,6 @@ Some resources are available here:
 https://github.com/acherm/teaching/tree/master/MDE
 
 Slides of the course:
- * this year in the "slides" folder
- * previous year: http://www.mathieuacher.com/teaching/MDE/
+ * http://www.mathieuacher.com/teaching/MDE/ (as well as content of previous years)
  * variability and product lines: http://teaching.variability.io
 
