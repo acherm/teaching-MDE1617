@@ -14,10 +14,10 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 
  * domain-specific languages (DSL) -- DSLs.pdf
  * external DSLs and Xtext -- DSLAndXtext.pdf
- * metamodeling and EMF
- * model transformation
- * meta-programming, annotations, advanced compositions  
- * Xtend, a modern programming language implemented with MDE principles (Xtext included)
+ * metamodeling and EMF -- ModelManagementXtend1.pdf 
+ * model transformation-- ModelManagementXtend1.pdf 
+ * meta-programming, annotations, advanced compositions -- ModelManagementXtend2.pdf 
+ * Xtend, a modern programming language implemented with MDE principles (Xtext included) -- ModelManagementXtend2.pdf
  * variability modeling 
  * software product lines and configuration 
  
