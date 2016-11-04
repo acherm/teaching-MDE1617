@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spreadsheet:Tableur
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:spreadsheet="http://www.kermeta.org/spreadsheet"
+    xsi:schemaLocation="http://www.kermeta.org/spreadsheet spreadsheet.ecore">
+  <cells>
+    <expression
+        xsi:type="spreadsheet:CellRef"
+        ref="//@cells.1"/>
+  </cells>
+  <cells>
+    <expression
+        xsi:type="spreadsheet:BinExpression"/>
+  </cells>
+</spreadsheet:Tableur>

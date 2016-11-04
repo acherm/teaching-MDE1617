@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated spreadsheet -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="spreadsheet.presentation.SpreadsheetModelWizardID"
+            name="%_UI_SpreadsheetModelWizard_label"
+            class="spreadsheet.presentation.SpreadsheetModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/SpreadsheetModelFile.gif">
+         <description>%_UI_SpreadsheetModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated spreadsheet -->
+      <editor
+            id="spreadsheet.presentation.SpreadsheetEditorID"
+            name="%_UI_SpreadsheetEditor_label"
+            icon="icons/full/obj16/SpreadsheetModelFile.gif"
+            extensions="spreadsheet"
+            class="spreadsheet.presentation.SpreadsheetEditor"
+            contributorClass="spreadsheet.presentation.SpreadsheetActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.xtend.XTEND_CONTAINER"/>
+	<classpathentry kind="src" path="xtend-gen"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="resources/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="resources/k3-3.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="resources/org.eclipse.emf.common-2.8.0-v20120911-0500.jar"/>
+	<classpathentry kind="lib" path="resources/org.eclipse.emf.ecore-2.8.0-v20120911-0500.jar"/>
+	<classpathentry kind="lib" path="resources/org.eclipse.emf.ecore.xmi-2.8.0-v20120911-0500.jar"/>
+	<classpathentry kind="lib" path="resources/org.eclipse.xtend.lib-2.4.3-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="resources/org.eclipse.xtext.xbase.lib-2.4.3-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
