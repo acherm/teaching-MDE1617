@@ -32,6 +32,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
   (instructions given during the session)
  * 6 TPs
   * TP1: http://tinyurl.com/TP1-IDM1617 (metamodeling)
+   ** (solution) https://github.com/acherm/teaching-MDE1617/wiki/TP1-((meta(meta))model
   * TP2: http://tinyurl.com/TP2-IDM1617 (DSL, Xtext)
  
 
