@@ -30,6 +30,8 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 
  * 2 TDs 
   (instructions given during the session)
+   * TD1 solution: see TP1-solution folder
+   * TD2 solution: see https://github.com/acherm/teaching/tree/master/MDE/CAO2009-sol 
  * 6 TPs
   * TP1: http://tinyurl.com/TP1-IDM1617 (metamodeling)
    * (solution) https://github.com/acherm/teaching-MDE1617/wiki/TP1-((meta(meta))model
