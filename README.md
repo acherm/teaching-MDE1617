@@ -12,34 +12,35 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 
 ## Agenda 
 
- * domain-specific languages (DSL) -- DSLs.pdf
- * external DSLs and Xtext -- DSLAndXtext.pdf
- * metamodeling and EMF -- ModelManagementXtend1.pdf 
- * model transformation-- ModelManagementXtend1.pdf 
- * meta-programming, annotations, advanced compositions -- ModelManagementXtend2.pdf 
- * Xtend, a modern programming language implemented with MDE principles (Xtext included) -- ModelManagementXtend2.pdf
- * variability modeling 
- * software product lines and configuration 
- 
+* domain-specific languages (DSL) -- DSLs.pdf
+* external DSLs and Xtext -- DSLAndXtext.pdf
+* metamodeling and EMF -- ModelManagementXtend1.pdf 
+* model transformation-- ModelManagementXtend1.pdf 
+* meta-programming, annotations, advanced compositions -- ModelManagementXtend2.pdf 
+* Xtend, a modern programming language implemented with MDE principles (Xtext included) -- ModelManagementXtend2.pdf
+* variability modeling -- SPLVariability-light1617.pdf 
+* software product lines and configuration -- SPLVariability-light1617.pdf 
+
 ## Evaluation 
 
- * 30% (homework + project)
- * 70% (partiel) 
- 
+* 30% (homework + project)
+* 70% (partiel) 
+
 ## Lab sessions 
 
- * 2 TDs 
-  (instructions given during the session)
+* 2 TDs 
+   (instructions given during the session)
    * TD1 solution: see TP1-solution folder
    * TD2 solution: see https://github.com/acherm/teaching/tree/master/MDE/CAO2009-sol 
- * 6 TPs
-  * TP1: http://tinyurl.com/TP1-IDM1617 (metamodeling)
+* 6 TPs
+* TP1: http://tinyurl.com/TP1-IDM1617 (metamodeling)
    * (solution) https://github.com/acherm/teaching-MDE1617/wiki/TP1-((meta(meta))model
-  * TP2: http://tinyurl.com/TP2-IDM1617 (DSL, Xtext)
-  * TP3, TP4, TP5, TP6 + project: https://docs.google.com/document/d/18ZS2-xGH4lqYtQZMar2A4Mfsmm3OsR9Bu1qujHG9yf8/edit?usp=sharing 
- 
+* TP2: http://tinyurl.com/TP2-IDM1617 (DSL, Xtext)
+   * (solution) https://github.com/FAMILIAR-project/VideoGen
+* TP3, TP4, TP5, TP6 + project: https://docs.google.com/document/d/18ZS2-xGH4lqYtQZMar2A4Mfsmm3OsR9Bu1qujHG9yf8/edit?usp=sharing 
 
- 
+
+
 ## Homework 
 
 JOOQ and SQL:
@@ -53,7 +54,7 @@ Some resources are available here:
 https://github.com/acherm/teaching/tree/master/MDE
 
 Slides of the course:
- * see "slides" folder of this repo
- * http://www.mathieuacher.com/teaching/MDE/ (content of previous years)
- * variability and product lines: http://teaching.variability.io
+* see "slides" folder of this repo
+* http://www.mathieuacher.com/teaching/MDE/ (content of previous years)
+* variability and product lines: http://teaching.variability.io
 
